@@ -1,5 +1,7 @@
 # github pages for Andy Cao
 
+介绍页，以及博客连接
+
 includes intro html can redirect to jekyll blogs
 
 ## Markdown languages
