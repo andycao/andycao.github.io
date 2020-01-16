@@ -1,0 +1,30 @@
+{
+  "name": "andycao.github.io",
+  "version": "1.0.0",
+  "description": "andy's persion page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andycao/andycao.github.io.git"
+  },
+  "author": "andy cao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andycao/andycao.github.io/issues"
+  },
+  "homepage": "https://github.com/andycao/andycao.github.io#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^3.4.2",
+    "path": "^0.12.7",
+    "style-loader": "^1.1.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
