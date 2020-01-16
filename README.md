@@ -15,3 +15,7 @@ http://andycao.github.io/
 
 blogs:
 http://andycao.github.io/blogs
+
+## build command
+
+npm run build 
