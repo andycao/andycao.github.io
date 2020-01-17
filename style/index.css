@@ -6,4 +6,5 @@
 .container{
     width: 95%;
     margin: 0 auto;
+    background: linear-gradient(0.05turn, #bbb, #9198bb);
 }
