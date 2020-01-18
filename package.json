@@ -12,7 +12,7 @@
     "url": "git+https://github.com/andycao/andycao.github.io.git"
   },
   "author": "andy cao",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/andycao/andycao.github.io/issues"
   },
