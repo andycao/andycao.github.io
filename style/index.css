@@ -8,3 +8,7 @@
     margin: 0 auto;
     background: linear-gradient(0.15turn, #eee, #4ba6db);
 }
+
+.hidden {
+    display: none;
+}
