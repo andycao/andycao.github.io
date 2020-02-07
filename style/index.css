@@ -4,9 +4,11 @@
 }
 
 .container{
+    color: #345;
     width: 95%;
     margin: 0 auto;
-    background: linear-gradient(0.15turn, #eee, #4ba6db);
+    background: linear-gradient(0.3turn, #eee, #1d84c0);
+    padding: 20px 0;
 }
 
 .hidden {
