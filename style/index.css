@@ -11,6 +11,10 @@
     padding: 20px 0;
 }
 
+.container ul li {
+    line-height: 1.5;
+}
+
 .hidden {
     display: none;
 }

@@ -116,7 +116,7 @@ eval("// Imports\nvar ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../c
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("// Imports\nvar ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\nexports = ___CSS_LOADER_API_IMPORT___(false);\n// Module\nexports.push([module.i, \".img{\\n    width: 600px;\\n    height: auto;\\n}\\n\\n.container{\\n    color: #345;\\n    width: 95%;\\n    margin: 0 auto;\\n    background: linear-gradient(0.3turn, #eee, #1d84c0);\\n    padding: 20px 0;\\n}\\n\\n.hidden {\\n    display: none;\\n}\", \"\"]);\n// Exports\nmodule.exports = exports;\n\n\n//# sourceURL=webpack:///./style/index.css?./node_modules/css-loader/dist/cjs.js");
+eval("// Imports\nvar ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\nexports = ___CSS_LOADER_API_IMPORT___(false);\n// Module\nexports.push([module.i, \".img{\\n    width: 600px;\\n    height: auto;\\n}\\n\\n.container{\\n    color: #345;\\n    width: 95%;\\n    margin: 0 auto;\\n    background: linear-gradient(0.3turn, #eee, #1d84c0);\\n    padding: 20px 0;\\n}\\n\\n.container ul li {\\n    line-height: 1.5;\\n}\\n\\n.hidden {\\n    display: none;\\n}\", \"\"]);\n// Exports\nmodule.exports = exports;\n\n\n//# sourceURL=webpack:///./style/index.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
