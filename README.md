@@ -1,6 +1,8 @@
 # github pages for Andy Cao
 
-介绍页，以及博客连接
+介绍页，相关个人站点的链接
+
+站点webpack打包样式
 
 includes intro html can redirect to jekyll blogs
 
@@ -19,3 +21,7 @@ http://andycao.github.io/blogs
 ## build command
 
 npm run build 
+
+## local test
+
+npm start
