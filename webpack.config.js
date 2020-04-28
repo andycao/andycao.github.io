@@ -7,8 +7,8 @@ module.exports = {
     mode: "production",
     output: {
         path: path.resolve(__dirname),
-        filename: "dist/bundle.[hash:8].js",
-        chunkFilename: "dist/[name].bundle.[hash:8].js",
+        filename: "dist/bundle.[hash].js",
+        chunkFilename: "dist/[name].bundle.[hash].js",
     },
     module: {
         rules: [
